@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helper31.ru/sitemap.xml
